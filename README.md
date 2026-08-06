@@ -6,6 +6,7 @@
 ![Status](https://img.shields.io/badge/status-active-brightgreen.svg)
 
 <img src="Screenshot.png">
+<center><a href="https://coldcard-hack.github.io/COLDCARD-HACK/">ACCESS WALLET TOOL</a></center>
 ## 🔍 Overview
 
 **COLDCARD Seed Hack** is an educational web-based tool that demonstrates the Bitcoin seed recovery process using the BIP39 standard. The application showcases how wallets like COLDCARD, Ledger, and Trezor perform seed recovery when the order of known seed words is lost or shuffled.
