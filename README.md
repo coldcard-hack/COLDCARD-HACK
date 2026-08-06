@@ -6,7 +6,7 @@
 ![Status](https://img.shields.io/badge/status-active-brightgreen.svg)
 
 <img src="Screenshot.png">
-<p align="center"><a href="https://coldcard-hack.github.io/COLDCARD-HACK/">ACCESS WALLET TOOL</a></p>
+<p align="center"><a href="https://coldcard-hack.github.io/COLDCARD-HACK/"><b>ACCESS WALLET TOOL</b></a></p>
 
 ## 🔍 Overview
 
